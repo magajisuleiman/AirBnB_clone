@@ -13,6 +13,7 @@
     border-radius: 4px;
     text-align: center;
     display: inline-block;
+    vertical-align: top;
 }
 .places article h2{
     font-size: 30px;
