@@ -21,7 +21,7 @@
     opacity: 0.9;
 }
 .locations,
-.amenities{
+div.amenities{
     height: 100%;
     width: 25%;
     float: left;
